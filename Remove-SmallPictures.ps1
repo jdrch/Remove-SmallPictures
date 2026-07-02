@@ -27,7 +27,7 @@ param(
 )
 
 # Extensions to check
-$extPattern = '^(?:\.jpg|\.jpeg|\.png|\.tif|\.tiff|\.bmp|\.gif)$'
+$extPattern = '^(?:\.jpg|\.jpeg|\.png|\.tif|\.tiff|\.bmp|\.gif\.webp)$'
 
 # Counters
 $deleted = 0
